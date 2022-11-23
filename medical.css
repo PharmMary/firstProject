@@ -1,0 +1,119 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h3 {
+    color: rgb(243, 53, 243);
+    font-size: 30px;
+}
+
+header {
+
+    margin: 30px 50px;
+    padding: 0 80px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+nav {
+    margin-right: 50px;
+    font-size: 20px;
+
+}
+
+.nav-item {
+    color: black;
+    text-decoration: none;
+    padding-inline: 10px;
+
+
+}
+
+button {
+    background-color: purple;
+    color: white;
+
+    font-size: 20px;
+}
+
+.mainclass {
+    margin: 100px 50px;
+    padding: 0 80px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.lefttop {
+    text-align: left;
+    font-size: 40px;
+}
+
+.p-lefttop {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.ps-lefttop {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(63, 20, 63);
+
+}
+
+.b-lefttop {
+    color: blueviolet;
+}
+
+.leftmid {
+    padding-top: 40px;
+}
+
+.leftdown {
+    padding-top: 40px;
+
+}
+
+.right-section {
+    display: flex;
+    justify-content: space-between;
+}
+
+.boy1 {
+    position: relative;
+    top: 140px;
+    /* left: 0px; */
+    right: 130px;
+    height: 300px;
+    width: 200px;
+    border: solid 1px white;
+    border-radius: 10px;
+}
+
+.boy2 {
+    position: relative;
+    bottom: 20px;
+    right: 50px;
+    height: 300px;
+    width: 200px;
+    border: solid 1px rgb(151, 119, 119);
+    border-radius: 10px;
+}
+
+.getdiscount {
+    background-color: blueviolet;
+    text-align: left;
+    height: 70px;
+    /* width: 500px */
+    border-radius: 10px;
+    padding: 10px;
+    font-weight: 20px;
+    color: white;
+    position: absolute;
+    top: 65%;
+    z-index: 5;
+    
+    
+}
+
