@@ -1,0 +1,6 @@
+Very nice job.
+* Your html is fine. Add the following fixes
+- Change the title of the page
+- what's the purpose of the <br> tag in line 58 of 
+your html page.
+* Try and implement a responsive nav.
